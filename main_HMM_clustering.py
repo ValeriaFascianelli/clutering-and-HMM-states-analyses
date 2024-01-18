@@ -4,7 +4,6 @@
 """
 
 import numpy as np
-
 from main_functions import get_HMM, get_clustering, get_new_clustered_hmm, get_new_states_sequence
 
 ## Example main to fit HMM and run clustering of HMM states of neuronal activity
